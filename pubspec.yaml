@@ -13,6 +13,15 @@ dependencies:
   cupertino_icons: ^1.0.2
   image_compare_slider: ^2.8.0
 
+  #구글 로그인
+  google_sign_in: ^6.1.4
+
+  #파이어베이스
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.3
+  cloud_firestore: ^4.8.1
+  firebase_storage: ^11.2.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
