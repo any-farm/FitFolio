@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213133341906",
+    "project_id": "fitfolio-38aec",
+    "storage_bucket": "fitfolio-38aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213133341906:android:7746810fb254131277690b",
+        "android_client_info": {
+          "package_name": "com.fitfolio.fitfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZuhh8MtLalSXBW5gPV6PO2l696TjcqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
