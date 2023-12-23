@@ -12,7 +12,12 @@
           "package_name": "com.fitfolio.fitfolio"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "213133341906-62bear2kq71s25eqqcrbvf1j4s58eles.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDwZuhh8MtLalSXBW5gPV6PO2l696TjcqY"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213133341906-62bear2kq71s25eqqcrbvf1j4s58eles.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213133341906-3251bq7ka88cllbrbnp6toan30o21rr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitfolio.fitfolio"
+              }
+            }
+          ]
         }
       }
     }

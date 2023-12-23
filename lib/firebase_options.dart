@@ -67,6 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '213133341906',
     projectId: 'fitfolio-38aec',
     storageBucket: 'fitfolio-38aec.appspot.com',
+    iosClientId: '213133341906-3251bq7ka88cllbrbnp6toan30o21rr0.apps.googleusercontent.com',
     iosBundleId: 'com.fitfolio.fitfolio',
   );
 
@@ -76,6 +77,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '213133341906',
     projectId: 'fitfolio-38aec',
     storageBucket: 'fitfolio-38aec.appspot.com',
+    iosClientId: '213133341906-gtm1kn52s30335drdd2ke81rruhh3mae.apps.googleusercontent.com',
     iosBundleId: 'com.fitfolio.fitfolio.RunnerTests',
   );
 }
