@@ -1,5 +1,6 @@
-import 'package:fitfolio/ui/main_screen.dart';
-import 'package:fitfolio/ui/splash_screen.dart';
+import 'package:fitfolio/ui/main/main_screen.dart';
+import 'package:fitfolio/ui/intro/splash_screen.dart';
+import 'package:fitfolio/ui/mypage/MyPageScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/splash' : (context) => SplashScreen(),
         '/main' : (context) => MainScreen(),
+        '/my_page' : (context) => MyPageScreen(),
       },
     );
   }
