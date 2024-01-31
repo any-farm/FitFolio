@@ -1,5 +1,7 @@
 import 'package:fitfolio/ui/main_screen.dart';
 import 'package:fitfolio/ui/splash_screen.dart';
+import 'package:fitfolio/ui/photo_screen.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,10 +15,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'FitFolio',
-      initialRoute: '/splash',
+      initialRoute: '/photo',
       routes: {
-        '/splash' : (context) => SplashScreen(),
-        '/main' : (context) => MainScreen(),
+        '/splash': (context) => SplashScreen(),
+        '/main': (context) => MainScreen(),
+        '/photo': (context) => PhotoScreen(),
       },
     );
   }
