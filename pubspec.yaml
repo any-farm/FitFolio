@@ -12,6 +12,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   image_compare_slider: ^2.8.0
+  realm: ^1.8.0
 
 dev_dependencies:
   flutter_test:
